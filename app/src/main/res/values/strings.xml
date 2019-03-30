@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">YO Mart</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="MY_APP_PREF">com.example.umair.shopgrocery</string>
+    <string name="category">CategoryName</string>
+    <string name="subCategory">SubCategory</string>
+    <string name="secondsub">2ndSub</string>
+    <string name="rs">Rs.</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="slider_image">Slider Image</string>
+    <string name="myCart">My Cart</string>
+    <string name="_1_your_bill">1.Your Bill</string>
+    <string name="_2_place_order">2.Place Order</string>
+    <string name="_3_completed">3.Completed</string>
+    <string name="delivery_more_than_1000_rs_is_free">Delivery more than 1000 RS is free</string>
+    <string name="search_for_grocery">Search</string>
+    <string name="hintSearchMess">Search Grocery items</string>
+    <string name="search_grocery_item">Search Grocery item</string>
+    <string name="search_ic">search ic</string>
+</resources>
